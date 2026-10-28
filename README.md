@@ -1,0 +1,2 @@
+# HealthConnect
+HealthConnect is an amazing platform to provide you a great healthcare service. It takes care of your health by simplifying the process of diagnosis, just  signup to the website and use its symptom analyser to get yourself diagnosed and not only diagnosis, we provide you excellent prescritption through well qualified and experienced doctors, also if required we can easily arrange a physical visit or a lab test and could easily manage all your medical reports.
